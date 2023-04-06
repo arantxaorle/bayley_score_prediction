@@ -1,6 +1,6 @@
-| First Header  |
-|Alcohol in pregnancy|Yes/No|
+|Prenatal| |
 |:----|:----|
+|Alcohol in pregnancy|Yes/No|
 |Clinical chorioamnionitis |Yes/No|
 |Histologic chorioamnionitis|Yes/No|
 |Gestational diabetes|Yes/No|
@@ -20,4 +20,3 @@
 |Delivery type|C-section|
 | |Spatulas|Euthyroid|
 | |Forceps|Vakum|Not stated /Not determined|
-
