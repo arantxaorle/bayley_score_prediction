@@ -2,4 +2,4 @@ Repository for the neurodevelopmental impairments prediction in premature infant
 
 <br />
 
-Features and selected features used on each analysis are available in all_features.md and selected_features.md
+Features and selected features used on each analysis are available in **all_features.md** and **selected_features.md**
