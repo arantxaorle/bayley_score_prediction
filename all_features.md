@@ -4,7 +4,8 @@
 |Clinical chorioamnionitis |Yes/No|
 |Histologic chorioamnionitis|Yes/No|
 |Gestational diabetes|Yes/No|
-|Maternal age at the time of delivery|IntegerPrenatal steroids|Nº dosis: 1/2/3|
+|Maternal age at the time of delivery|Integer|
+|Prenatal steroids|Nº dosis: 1/2/3|
 |In vitro fertilization |Yes/No|
 |Hypertension|Yes/No|
 |Hypothyroidism|Yes/No|
