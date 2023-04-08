@@ -17,10 +17,14 @@
 |Negative serology|Yes/No|
 |Antenatal magnesium sulfate|Yes/No|
 |Tobacco in pregnancy|No smoke|
-| |Smoke, but not during gestation| < 20 cigarettes per day|> 20 cigarettes per day|
+| |Smoke, but not during gestation| 
+| |< 20 cigarettes per day|
+| |> 20 cigarettes per day|
 |Delivery type|C-section|
 | |Spatulas|Euthyroid|
-| |Forceps|Vakum|Not stated /Not determined|
+| |Forceps|
+| |Vakum|
+| |Not stated /Not determined|
 
 |Perinatal | |
 |:----|:----|
