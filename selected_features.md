@@ -21,7 +21,11 @@
 |Size in gestational age|Small for gestational age|
 | |Normal for gestational age|
 |Birth weight|Float|
-|Cardiopulmonary resuscitation|No|Continuous positive airway pressure|Intermittent positive-pressure ventilation + CPAP|Intubation|Adrenaline|
+|Cardiopulmonary resuscitation|No|
+||Continuous positive airway pressure|
+||Intermittent positive-pressure ventilation + CPAP|
+||Intubation|
+||Adrenaline|
 |Sex|Men/Women|
 
 |Comorbidities| |
