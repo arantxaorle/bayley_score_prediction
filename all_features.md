@@ -8,13 +8,13 @@
 |In vitro fertilization |Yes/No|
 |Hypertension|Yes/No|
 |Hypothyroidism|Yes/No|
-|Meconium aspiration syndrome|Yes/No|
+|Meconium amniotic fluid|Yes/No|
 |Delivery type|Vaginal/C-section|
 |Instrumental delivery|Yes/No|
 |Multiple birth|Yes/No|
 |Preeclampsia|Yes/No|
 |Negative serology|Yes/No|
-|Magnesium sulfate|Yes/No|
+|Antenatal magnesium sulfate|Yes/No|
 |Tobacco in pregnancy|No smoke|
 | |Smoke, but not during gestation| < 20 cigarettes per day|> 20 cigarettes per day|
 |Delivery type|C-section|
