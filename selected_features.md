@@ -32,7 +32,8 @@
 |:----|:----|
 |Postnatal corticosteroids|Yes/No|
 |Bronchopulmonary dysplasia|Yes/No|
-|Days controlled mechanical ventilation|IntegerNecrotizing enterocolitis|Yes/No|
+|Days controlled mechanical ventilation|Integer|
+|Necrotizing enterocolitis|Yes/No|
 |Ductus arteriosus|Yes/No|
 |Retinopathy|Yes/No|
 |Days of respiratory support|Integer|
