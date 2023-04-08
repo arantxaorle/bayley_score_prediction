@@ -32,7 +32,8 @@
 |Clinical Risk Index for Babies |0-24|
 |Intubation |Yes/No|
 |Cardiac massage |Yes/No|
-|Order in delivery|IntegerLow amniotic fluid volume|Yes/No|
+|Order in delivery|Integer|
+|Low amniotic fluid volume|Yes/No|
 |Head circumference at birth|Float|
 |Size in gestational age|Small for gestational age|
 | |Normal for gestational age|
