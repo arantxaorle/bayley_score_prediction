@@ -39,7 +39,10 @@
 | |Normal for gestational age|
 |Birth weight|Float|
 |Cardiopulmonary resuscitation|No|
-| |Continuous positive airway pressure|Intermittent positive-pressure ventilation + CPAP|Intubation|Adrenaline|
+| |Continuous positive airway pressure|
+| |Intermittent positive-pressure ventilation + CPAP|
+| |Intubation| 
+| |Adrenaline|
 |Resuscitation|Yes/No|
 |Sex|Men/Women|
 
