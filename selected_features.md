@@ -9,7 +9,7 @@
 |Delivery type|Vaginal/C-section|
 |Multiple birth|Yes/No|
 |Preeclampsia|Yes/No|
-|Magnesium sulfate|Yes/No|
+|Antenatal magnesium sulfate|Yes/No|
 
 |Perinatal | |
 |:----|:----|
